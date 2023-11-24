@@ -27,7 +27,7 @@ public class Member {
 
     @Column
     @Setter
-    private String number1;
+    private String address;
 
 //    @OneToMany(mappedBy = "member", cascade = CascadeType.ALL)
 //    private List<Order> orders = new ArrayList<>();
